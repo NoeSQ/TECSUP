@@ -1,0 +1,22 @@
+placeholder = muestra un nombre a los input
+required = dato obligatorio
+maxlength = cantidad de caracteres maximo
+value = cambia el nombre del boton del input submit
+button = crea un boton
+br = salto de linea
+link rel = vincula un archivo css
+./ = ubica el archivo a vincular
+accept = determina un archivo especifico con application/pdf o image/*
+tr = table row , nueva fila
+row = filas
+col =columna
+margin=margen externo de la caja
+padding= margen interno de la caja
+height = alto 
+
+
+css
+--------------------
+top - arriba
+botton - abajo
+rihg
